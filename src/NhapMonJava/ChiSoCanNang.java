@@ -1,3 +1,5 @@
+package NhapMonJava;
+
 import java.util.Scanner;
 public class ChiSoCanNang {
     public static void main(String[] args) {

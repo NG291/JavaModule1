@@ -1,3 +1,5 @@
+package NhapMonJava;
+
 import java.util.Date;
 
 public class DateAiDepTraiHon {

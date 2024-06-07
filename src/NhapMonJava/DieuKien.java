@@ -1,3 +1,5 @@
+package NhapMonJava;
+
 import java.util.Scanner;
 
 public class DieuKien {
