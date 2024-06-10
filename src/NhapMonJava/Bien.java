@@ -1,6 +1,6 @@
 package NhapMonJava;
 
-public class bien {
+public class Bien {
     public static void main(String[] args) {
         int i = 10;//Khai báo i là kiểu giữ liệu có giá trị là 10
         float f = 20.5f;//khai bao NhapMonJava.bien f co gia tri là 20.5

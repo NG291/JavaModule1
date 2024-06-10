@@ -2,7 +2,7 @@ package VongLap;
 
 import java.util.Scanner;
 
-public class in20SoNgt {
+public class In20SoNgt {
 
     public static boolean isPrime(int number) {
         if (number < 2) {
