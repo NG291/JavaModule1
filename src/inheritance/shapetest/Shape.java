@@ -30,7 +30,6 @@ public class Shape {
 
     public String toString() {
         return "Color: " + getColor()
-                + " Filled: "
                 + (isFilled() ? "filled" : "not filled");
     }
 }
